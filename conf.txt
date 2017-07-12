@@ -9,6 +9,5 @@ size_y = 25
 size_z = 25
  
 energy_range = 4
- 
-exhaustiveness = 12
 
+num_modes = 1
